@@ -17,3 +17,4 @@
 </table>
 <hr>
 超連結練習<br>
+[Google]: http://google.com/
