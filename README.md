@@ -1,4 +1,5 @@
-# Github 排版練習
+# Github 排版練習 Markdiwn語法或簡易的HTML編輯 
+https://markdown.tw/
 標題練習
 # # = h1
 ## ## = h2
