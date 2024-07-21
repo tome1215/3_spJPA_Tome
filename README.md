@@ -17,9 +17,6 @@
 </table>
 <hr>
 超連結練習<br>
-I get 10 times more traffic from [Google][] than from
-[Yahoo][] or [MSN][].
-
-  [google]: http://google.com/        "Google"
+  [google]: [http://google.com/]        "Google"
   [yahoo]:  http://search.yahoo.com/  "Yahoo Search"
   [msn]:    http://search.msn.com/    "MSN Search"
